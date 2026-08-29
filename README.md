@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**GiovaniFZ/GiovaniFZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+- Hello, my name is Giovani, I'm a software engineer working in a logistics company. I have strong knowledge at MongoDB, TypeScript, React and Vue.
+- Future plans: I want to have more experience with NextJS, SSR and CSR, RabbitMQ, NestJS, microservices and Go. I'm also planning to have a postgraduate degreee.
 
-Here are some ideas to get you started:
+## Languages, libraries and frameworks
+<div>
+  <img src="https://skillicons.dev/icons?i=ts,python,java,js,c,cpp,kotlin,css,html,vue,nodejs,express,fastapi,react,nextjs,tailwindcss" alt="Skills" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Databases and ORMs
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,prisma" alt="Skills" />
+</div>
+
+# Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,figma,vercel,windows,linux,arch,vim,aws,gcp" alt="Skills" />
+</div>
