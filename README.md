@@ -18,3 +18,8 @@
 <div>
   <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,figma,vercel,windows,linux,arch,vim,aws,gcp" alt="Skills" />
 </div>
+
+# Testing Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=vitest,cypress" alt="Skills" />
+</div>
