@@ -10,7 +10,7 @@
 
 ## Languages, libraries and frameworks
 <div>
-  <img src="https://skillicons.dev/icons?i=ts,python,java,js,c,cpp,kotlin,css,html,vue,nodejs,express,fastapi,react,nextjs,tailwindcss" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,python,java,js,c,cpp,kotlin,css,html,vue,nodejs,express,fastapi,react,nextjs,tailwindcss,go" alt="Skills" />
 </div>
 <p>*I also have experience with Fastify and NewRelic</p>
 
