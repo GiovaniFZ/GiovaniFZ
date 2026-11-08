@@ -2,7 +2,11 @@
 
 ## Who am I?
 - Hello, my name is Giovani, I'm a software engineer working in a logistics company. I have strong knowledge at MongoDB, TypeScript, React and Vue.
-- Future plans: I want to have more experience with NextJS, SSR and CSR, RabbitMQ, NestJS, microservices and Go. I'm also planning to have a postgraduate degreee.
+
+## Future plans: 
+1. Get a postgraduate degreee
+2. Learn C++ and .NET
+3. Build personal projects with Java Spring Boot, Python and GraphQL.
 
 ## Languages, libraries and frameworks
 <div>
