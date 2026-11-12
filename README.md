@@ -6,7 +6,8 @@
 ## Future plans: 
 1. Get a postgraduate degreee
 2. Learn C++ and .NET
-3. Build personal projects with Java Spring Boot, Python and GraphQL.
+3. Learn some architectures (like Hexagonal)
+4. Build personal projects with Java Spring Boot, Python and GraphQL.
 
 ## Languages, libraries and frameworks
 <div>
