@@ -29,3 +29,6 @@
 <div>
   <img src="https://skillicons.dev/icons?i=vitest,cypress" alt="Skills" />
 </div>
+
+# Stats
+[![GiovaniFZ's Github stats](https://github-stats-extended.vercel.app/api?username=giovanifz)](https://github.com/stats-organization/github-stats-extended)
